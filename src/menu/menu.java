@@ -17,7 +17,7 @@ public class menu {
         System.out.println("|      1 - Realizar compra       |");
         System.out.println("|      2 - Ver estoque           |");
         System.out.println("|      3 - Área Restrita         |");
-        System.out.println("|      4 - Consultar             |");
+        System.out.println("|      4 - Consultar           |");
         System.out.println("|      0 - Sair/Cancelar         |");
         System.out.println("|                                |");
         System.out.println("+--------------------------------+");
@@ -25,7 +25,7 @@ public class menu {
     }
 
     public static void comprar(){
-        System.out.println("Você entrou no método compra.");
+        System.out.println("Você entrou no método compr.");
     }
     
     public static void verEstoque(){
